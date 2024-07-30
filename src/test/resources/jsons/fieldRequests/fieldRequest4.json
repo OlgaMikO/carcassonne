@@ -1,0 +1,32 @@
+{
+  "tiles" : [ [ {
+    "tileId" : 22,
+    "angle" : 1
+  }, {
+    "tileId" : 21,
+    "angle" : 0
+  }, {
+    "tileId" : 1,
+    "angle" : 3
+  } ], [ {
+    "tileId" : 1,
+    "angle" : 0
+  }, {
+    "tileId" : 4,
+    "angle" : 0
+  }, {
+    "tileId" : 8,
+    "angle" : 0
+  } ], [ {
+    "tileId" : 12,
+    "angle" : 1
+  }, {
+    "tileId" : 22,
+    "angle" : 1
+  }, {
+    "tileId" : 2,
+    "angle" : 0
+  } ] ],
+  "rowCount" : 3,
+  "columnCount" : 3
+}

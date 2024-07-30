@@ -1,0 +1,17 @@
+server:
+  forward-headers-strategy: framework
+spring:
+  liquibase:
+    enabled: true
+    change-log: classpath:db/changelog.xml
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/postgres
+    name: postgres
+    username: superuser
+    password: qwerty
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,prometheus

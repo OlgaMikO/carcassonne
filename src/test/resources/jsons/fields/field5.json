@@ -1,0 +1,109 @@
+{
+  "fieldTiles" : [ [ {
+    "tile" : {
+      "id" : 22,
+      "top" : "FIELD",
+      "bottom" : "ROAD",
+      "left" : "ROAD",
+      "right" : "FIELD",
+      "center" : "ROAD",
+      "shield" : false
+    },
+    "angle" : 1,
+    "row" : 0,
+    "column" : 0
+  }, {
+    "tile" : {
+      "id" : 21,
+      "top" : "ROAD",
+      "bottom" : "ROAD",
+      "left" : "FIELD",
+      "right" : "FIELD",
+      "center" : "ROAD",
+      "shield" : false
+    },
+    "angle" : 0,
+    "row" : 0,
+    "column" : 1
+  }, {
+    "tile" : {
+      "id" : 1,
+      "top" : "FIELD",
+      "bottom" : "ROAD",
+      "left" : "FIELD",
+      "right" : "FIELD",
+      "center" : "ABBEY",
+      "shield" : false
+    },
+    "angle" : 3,
+    "row" : 0,
+    "column" : 2
+  } ], [ {
+    "tile" : {
+      "id" : 1,
+      "top" : "FIELD",
+      "bottom" : "ROAD",
+      "left" : "FIELD",
+      "right" : "FIELD",
+      "center" : "ABBEY",
+      "shield" : false
+    },
+    "angle" : 0,
+    "row" : 1,
+    "column" : 0
+  }, null, {
+    "tile" : {
+      "id" : 8,
+      "top" : "FIELD",
+      "bottom" : "FIELD",
+      "left" : "TOWN",
+      "right" : "TOWN",
+      "center" : "FIELD",
+      "shield" : false
+    },
+    "angle" : 0,
+    "row" : 1,
+    "column" : 2
+  } ], [ {
+    "tile" : {
+      "id" : 12,
+      "top" : "ROAD",
+      "bottom" : "ROAD",
+      "left" : "ROAD",
+      "right" : "TOWN",
+      "center" : "ROAD_END",
+      "shield" : false
+    },
+    "angle" : 1,
+    "row" : 2,
+    "column" : 0
+  }, {
+    "tile" : {
+      "id" : 22,
+      "top" : "FIELD",
+      "bottom" : "ROAD",
+      "left" : "ROAD",
+      "right" : "FIELD",
+      "center" : "ROAD",
+      "shield" : false
+    },
+    "angle" : 1,
+    "row" : 2,
+    "column" : 1
+  }, {
+    "tile" : {
+      "id" : 2,
+      "top" : "FIELD",
+      "bottom" : "FIELD",
+      "left" : "FIELD",
+      "right" : "FIELD",
+      "center" : "ABBEY",
+      "shield" : false
+    },
+    "angle" : 0,
+    "row" : 2,
+    "column" : 2
+  } ] ],
+  "rowCount" : 3,
+  "columnCount" : 3
+}
